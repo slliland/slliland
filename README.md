@@ -1,5 +1,6 @@
-![Peek 2020-07-09 15-53](/src/files/messagif.gif)
-<h3 align="center">Software Engineer | Master of Software Engineering | Carnegie Mellon | Seeking Summer 2025 Internship | <a href='https://www.linkedin.com/in/yujian-song-839394309/'> Connect on LinkedIn</a></h3>
+<img src="/src/files/messagif.gif" alt="Banner GIF" style="width: 100%; height: auto;">
+
+<h3 align="center"> Master of Software Engineering | Carnegie Mellon | Seeking Summer 2025 Internship | <a href='https://www.linkedin.com/in/yujian-song-839394309/'> Connect on LinkedIn</a></h3>
 
 ## A little bit about me
 
