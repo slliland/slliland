@@ -1,4 +1,4 @@
-<img src="/src/files/typewriter.gif" alt="Banner GIF" style="width: 100%; height: 20%;">
+<img src="/src/files/output-onlinegiftools.gif" alt="Banner GIF" style="width: 100%; height: 20%;">
 
 <h3 align="center"> Master of Software Engineering | Carnegie Mellon | Seeking Summer 2025 Internship | <a href='https://www.linkedin.com/in/yujian-song-839394309/'> Connect on LinkedIn</a></h3>
 
